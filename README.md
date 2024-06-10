@@ -101,8 +101,8 @@ The objectives of this project are:
 
 1. **Clone the Repository**:
     ```bash
-    git <clone https://github.com/NataliiaShevchenko620/tableau-challenge.git>
-    cd <tableau-challenge>
+    git clone https://github.com/NataliiaShevchenko620/tableau-challenge.git
+    cd tableau-challenge
     ```
 
 2. **Run the Local Server to Display the HTML Page**:
@@ -119,6 +119,7 @@ The objectives of this project are:
 The project directory structure is as follows:
 
 ```Jersey Bike Insights/
+Jersey Bike Insights/
 ├── Resources/
 │   ├── Data preparation.ipynb
 │   ├── JC-citibike-tripdata.zip
@@ -128,10 +129,11 @@ The project directory structure is as follows:
 │   │   ├── JC-202401 to JC-202405-citibike-tripdata.csv # Monthly data for January to May 2024
 ├── index.html
 ├── README.md
+├── Tableau.png
 ├── Analysis/
 │   ├── CitiBike-Jersey_City_Insights.twbx
 │   ├── night_cycling.jpg
-│   ├── Tableau.png
+
 
 ```
 
