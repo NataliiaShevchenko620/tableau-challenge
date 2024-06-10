@@ -101,8 +101,8 @@ The objectives of this project are:
 
 1. **Clone the Repository**:
     ```bash
-    git clone <URL of your repository>
-    cd <name of your repository>
+    git <clone https://github.com/NataliiaShevchenko620/tableau-challenge.git>
+    cd <tableau-challenge>
     ```
 
 2. **Run the Local Server to Display the HTML Page**:
@@ -118,22 +118,28 @@ The objectives of this project are:
 
 The project directory structure is as follows:
 
-```New Jersey Bike Insights/
-├── Data preparation.ipynb # Jupyter Notebook for data preparation
-├── index.html # Main HTML page
-├── static/
-│ ├── css/
-│ │ └── styles.css # CSS styles for the HTML page
-│ └── js/
-│ └── tableau_embed.js # JavaScript for embedding Tableau visualizations
-└── README.md # Project README file
+```Jersey Bike Insights/
+├── Resources/
+│   ├── Data preparation.ipynb
+│   ├── JC-citibike-tripdata.zip
+│   ├── data_JC/
+│   │   ├── JC-202201 to JC-202212-citibike-tripdata.csv # Monthly data for 2022
+│   │   ├── JC-202301 to JC-202312-citibike-tripdata.csv # Monthly data for 2023
+│   │   ├── JC-202401 to JC-202405-citibike-tripdata.csv # Monthly data for January to May 2024
+├── index.html
+├── README.md
+├── Analysis/
+│   ├── CitiBike-Jersey_City_Insights.twbx
+│   ├── night_cycling.jpg
+│   ├── Tableau.png
+
 ```
 
 
 ### Getting Detailed Information
 
 To get detailed information and insights, open the `index.html` file in a web browser. This will display the main dashboard, which provides interactive visualizations and insights into the CitiBike usage data in Jersey City.
-[See more details on the website](file:///C:/Users/13465/OneDrive/%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB/BerkeleyCourse/Practice/Module18/Challenge18/New%20Jersey%20Bike%20Insights/index.html)
+[See more details on the website]( https://nataliiashevchenko620.github.io/tableau-challenge/)
 
 ## License
 
