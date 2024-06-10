@@ -147,6 +147,4 @@ To get detailed information and insights, open the `index.html` file in a web br
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-## Contact
 
-For questions and suggestions, you can contact the project author via email: [example@example.com](mailto:example@example.com).
