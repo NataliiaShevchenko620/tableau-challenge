@@ -133,7 +133,7 @@ The project directory structure is as follows:
 ### Getting Detailed Information
 
 To get detailed information and insights, open the `index.html` file in a web browser. This will display the main dashboard, which provides interactive visualizations and insights into the CitiBike usage data in Jersey City.
-[See more details on the website](file:///C:/Users/13465/OneDrive/%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB/BerkeleyCourse/Practice/Module18/Challenge18/New%20Jersey%20Bike%20Insights/index.html)
+[See more details on the website]( https://nataliiashevchenko620.github.io/tableau-challenge/)
 
 ## License
 
